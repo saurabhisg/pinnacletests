@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<screenmapping>
+    <screens>
+        <screen name="common">
+            <fields>
+                <field name="headerTitle" locator="//table/tbody/tr/td[3]/nobr" locatorType="xpath"/>
+			</fields>
+        </screen>
+        <screen name="login">
+            <fields>
+                <field name="overrideLink" locator="overridelink" locatorType="name"/>
+            	<field name="username" locator="username" locatorType="name" processingOrder="0"/>
+                <field name="password" locator="password" locatorType="name" processingOrder="1"/>
+  				<field name="btnLogin" locator="//tbody/tr[4]/td[2]/a[1]" locatorType="xpath" action="click" processingOrder="2"/>
+  			</fields>
+        </screen>
+		<screen name="landing">
+            <fields>
+               	<field name="pageTitle" locator="//table/tbody/tr/td[3]/nobr" locatorType="xpath"/>
+    			<field name="agreementMaint" locator="gps/agreement.do" locatorType="xpath"/>
+	        </fields>
+        </screen>        
+		<screen name="agreementMaint">
+            <fields>
+               	<field name="rdoExecutingFirmPerspective" locator="firmPerspectiveRadio1" locatorType="id"/>
+            	<field name="rdoCarryingFirmPerspective" locator="firmPerspectiveRadio2" locatorType="id"/>
+            	<field name="txtExchangeFirm" locator="selectedFirmAutoComplete" locatorType="id"/>
+            	<field name="listExchangeFirm" locator="selectedFirm" locatorType="id"/>
+				<field name="listAgreementReferenceNumberSearchType" locator="selectedAgreementRefNbrSearchType" locatorType="id"/>
+				<field name="txtAgreementReferenceNumber" locator="tbAgreementRefNbr" locatorType="id"/>
+				<field name="lnkAgreementReferenceNumberAdd" locator="agreementRefNbrAdd" locatorType="id"/>
+           		<field name="btnAdd" locator="addBtn" locatorType="id"/>
+				<field name="btnClear" locator="clearBtn" locatorType="id"/>
+				<field name="btnSearch" locator="searchBtn" locatorType="id"/>
+			</fields>
+        </screen>
+		<screen name="agreementDetails">
+            <fields>
+               	<field name="title"  locator="//table/tbody/tr/td[3]/nobr" locatorType="xpath"/>
+               	<field name="txtAgreementReferenceNumber" locator="referenceNumber" locatorType="id"/>
+            	<field name="txtAgreementDate" locator="agreementDateString" locatorType="id"/>
+            	<field name="txtCustomerName" locator="customerName" locatorType="id"/>
+            	<field name="txtEGUSReferenceNumber" locator="egusAgreementNumber" locatorType="id"/>
+            	<field name="txtCustomerRefNumber" locator="customerRefNumber" locatorType="id"/>
+            	<field name="txtExecutingAccount" locator="exeFirmAcctNumber" locatorType="id"/>
+            	<field name="txtExecutingContact" locator="exeFirmContactName" locatorType="id"/>
+            	<field name="txtExecutingPhone" locator="exeFirmContactPhone" locatorType="id"/>
+            	<field name="listProfitCenter" locator="profitCenterUid" locatorType="id"/>
+            	<field name="listInterFCMAgreement" locator="interFCMAgreement" locatorType="id"/>
+            	<field name="listBillCarryFirmIndicator" locator="billCarryFirmIndicator" locatorType="id"/>
+    	       	<field name="listTierIndicator" locator="tierIndicator" locatorType="id"/>
+     			<field name="btnBackToAgreementSearch" locator="btnBackToSearch" locatorType="id"/>
+				<field name="btnNewSearch" locator="btnNewSearch" locatorType="id"/>
+				<field name="btnAdd" locator="btnAddAgreements" locatorType="id"/>
+				<field name="lnkSearchForm" locator="searchFormLnk" locatorType="id"/>
+		   </fields>
+        </screen>
+		<screen name="agreementReviewDetails">
+            <fields>
+               	<field name="title"  locator="//table/tbody/tr/td[3]/nobr" locatorType="xpath"/>
+            	<field name="fieldConfirm" locator="confirm" locatorType="cssclass"/>
+            	<field name="listAgreementActions" locator="AGR_ALL_RESULTS_action" locatorType="id"/>
+				<field name="agreementReviewDetailsTable" locator="AGR_ALL_RESULTS" locatorType="id"/>
+				<field name="agreementReviewDetailsTableRow" locator="AGR_ALL_RESULTS_row_0" locatorType="id"/>
+				<field name="agreementReviewDetailsTableNoResults" locator="AGR_ALL_RESULTS_empty_table_message" locatorType="id"/>
+				<field name="verification" locator="notice_layer" locatorType="id"/>
+				<field name="btnNewSearch" locator="btnNewSearch" locatorType="id"/>
+			</fields>
+		</screen>
+    </screens>
+</screenmapping>

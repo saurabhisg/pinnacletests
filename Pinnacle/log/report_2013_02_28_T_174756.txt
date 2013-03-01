@@ -1,0 +1,128 @@
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Selenium Server: 
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Application Url: http://projects.pinnaclecart.com/abhik/3712r4/
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - As a guest user start a application 
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - add an item to the cart
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Click My Cart
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - item was added to the cart
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Selenium Server: 
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Application Url: http://projects.pinnaclecart.com/abhik/3712r4/
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - As a guest user start a application 
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - add an item to the cart
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Click My Cart
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - item was added to the cart
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Clicked Remove under the item
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - item was removed
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Selenium Server: 
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Application Url: http://projects.pinnaclecart.com/abhik/3712r4/
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - As a guest user start a application 
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - add an item to the cart
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Click My Cart
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - item was added to the cart
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - clicked on proceed to checkout
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Redirected to the checkout page
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Selenium Server: 
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Application Url: http://projects.pinnaclecart.com/abhik/3712r4/
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - As a guest user start a application 
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - add an item to the cart
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Click My Cart
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - item was added to the cart
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Changed the quantity for the added item
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - clicked on update
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - item was updated
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - subtotal calculated is correct
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Selenium Server: 
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Application Url: http://projects.pinnaclecart.com/abhik/3712r4/
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - As a guest user start a application 
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - add an item to the cart
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Click My Cart
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - item was added to the cart
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Selenium Server: 
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Application Url: http://projects.pinnaclecart.com/abhik/3712r4/
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - As a guest user start a application 
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - add an item to the cart
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Click My Cart
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - item was added to the cart
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Clicked on Red X
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - item was removed
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Selenium Server: 
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Application Url: http://projects.pinnaclecart.com/abhik/3712r4/
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - admin login with credentials in a application
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Navigated to payment method
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Activated Payment Gateways
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - checked custom payment method
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - As a guest user start a application 
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - add an item to the cart
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Click My Cart
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - clicked on proceed to checkout
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Filled up billing information, Shipping Address or Method
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Selected Custom Payment Method
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Placed Order
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Ensured Thank you Page
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - admin login with credentials in a application
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Navigated to orders
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Checked new order and set new payment status
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Updated Status and ordered was displayed
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Checked new order and set new order status
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Updated Status and ordered was displayed
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Update status and ensure order complete notifications
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Selenium Server: 
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Application Url: http://projects.pinnaclecart.com/abhik/3712r4/
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - admin login with credentials in a application
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Navigated to gift certificates
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Enabled module button
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - As a guest user start a application 
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - clicked on gift certificate link
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Filled the form and clicked on add cart button
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - clicked on proceed to checkout
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Filled up billing information
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Selected Custom Payment Method
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Placed Order
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - admin login with credentials in a application
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Navigated to orders
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Checked new order and set new payment status
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Updated Status and ordered was displayed
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Checked new order and set new order status
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Updated Status and ordered was displayed
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Update status and ensure order complete notifications
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Selenium Server: 
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Application Url: http://projects.pinnaclecart.com/abhik/3712r4/
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - admin login with credentials in a application
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Navigated to gift certificates
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - As a guest user start a application 
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - add an item to the cart
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Click My Cart
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - clicked on proceed to checkout
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Filled up billing information, Shipping Address or Method
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Selected gift certificate radio button
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Filled up gift certificate with voucher code
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Selected Custom Payment Method
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Placed Order
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Selenium Server: 
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Application Url: http://projects.pinnaclecart.com/abhik/3712r4/
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - admin login with credentials in a application
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Enabled a promo code
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Created a new promo code
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Promo code created
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - As a guest user start a application 
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - add an item to the cart
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Click My Cart
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Changed the quantity for the added item
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - clicked on update
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - clicked on proceed to checkout
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Added an item with promo code
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Discounted amount is correct
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Selected Custom Payment Method
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Placed Order
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Selenium Server: 
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Application Url: http://projects.pinnaclecart.com/abhik/3712r4/
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - admin login with credentials in a application
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - clicked on Quantity Discount
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Setup a Quantity Discount
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - As a guest user start a application 
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Click My Cart
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Changed the quantity for the added item
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - clicked on update
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - subtotal calculated is correct
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - clicked on proceed to checkout
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Filled up billing information, Shipping Address or Method
+c.p.c.a.s.a.impl.PinnacleStoreApiUI - Placed Order

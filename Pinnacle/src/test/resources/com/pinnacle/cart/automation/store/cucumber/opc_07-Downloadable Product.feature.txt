@@ -1,0 +1,24 @@
+Feature: This feature is used to test Downloadable Product
+
+Scenario: Test that a user can purchase and download a downloadable product
+
+Given that admin is login to the application
+When admin navigate to Cart Settings to Digital Products
+Then Set Digital Products Active to Yes, and click Save changes
+Then Navigate to Categories & Products to Add a New Product
+And Create a product for the downloadable product
+Then Expand Digital Product Properties
+And Check the checkbox for Is this a digital download
+And provide a path for the digital download file and click Save Changes
+Then as a guest user start a application
+When user add an item to the cart
+And click on My Cart
+Then the user can see the added item to the cart
+When user click on proceed to checkout
+And Fill up billing information, Shipping Address or Method
+And click Place Order
+And Ensure thank you page is displayed and recieve notifications
+Then as an admin logs with credentials in a application 
+And navigate to orders and new order should be displayed
+And Check the checkbox for the new order and Set New Payment Status to Received
+And click Update status and order should be displayed
